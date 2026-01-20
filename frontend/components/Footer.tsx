@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
       {/* Decorative Element */}
       <div className="absolute top-0 right-0 w-[30vw] h-[30vw] max-w-[400px] max-h-[400px] opacity-[0.02] pointer-events-none">
         <img
-          src="/images/Graphic Elements-0١.jpg"
+          src="/images/Graphic Elements-02.jpg"
           alt=""
           className="w-full h-full object-contain"
         />

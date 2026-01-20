@@ -99,7 +99,7 @@ const Contact: React.FC = () => {
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute -right-[20%] top-[10%] w-[50vw] h-[50vw] max-w-[600px] max-h-[600px] opacity-[0.03]">
           <img
-            src="/images/Graphic Elements-0١.jpg"
+            src="/images/Graphic Elements-01.jpg"
             alt=""
             className="w-full h-full object-contain"
           />

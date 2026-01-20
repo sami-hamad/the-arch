@@ -22,7 +22,7 @@ const Partners: React.FC = () => {
           <div className="absolute inset-0 opacity-10">
             <div className="absolute top-0 left-[10%] w-[40vw] h-[40vw] max-w-[500px] max-h-[500px] rotate-180">
               <img
-                src="/images/Graphic Elements-0١.jpg"
+                src="/images/Graphic Elements-02.jpg"
                 alt=""
                 className="w-full h-full object-contain opacity-30"
               />

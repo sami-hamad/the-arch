@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
           initial={{ rotate: 0, opacity: 0 }}
           animate={{ rotate: 5, opacity: 1 }}
           transition={{ duration: 20, repeat: Infinity, repeatType: "reverse", ease: "linear" }}
-          src="/images/Graphic Elements-0١.jpg"
+          src="/images/Graphic Elements-01.jpg"
           alt=""
           className="w-full h-full object-contain"
         />
@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
         className="absolute -left-[30%] bottom-[5%] w-[50vw] h-[50vw] max-w-[600px] max-h-[600px] opacity-5 pointer-events-none rotate-180"
       >
         <img
-          src="/images/Graphic Elements-0١.jpg"
+          src="/images/Graphic Elements-02.jpg"
           alt=""
           className="w-full h-full object-contain"
         />

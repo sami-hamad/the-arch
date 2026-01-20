@@ -131,7 +131,7 @@ const Navbar: React.FC = () => {
               {/* Decorative Element */}
               <div className="absolute top-1/4 right-0 w-[60vw] h-[60vw] opacity-5 pointer-events-none">
                 <img
-                  src="/images/Graphic Elements-0١.jpg"
+                  src="/images/Graphic Elements-02.jpg"
                   alt=""
                   className="w-full h-full object-contain"
                 />
