@@ -38,7 +38,7 @@ function App() {
               className="absolute w-[80vw] h-[80vw] max-w-[600px] max-h-[600px]"
             >
               <img
-                src="/images/Graphic Elements-0١.jpg"
+                src="/images/Graphic Elements-01.jpg"
                 alt=""
                 className="w-full h-full object-contain opacity-30"
               />

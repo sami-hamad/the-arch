@@ -21,7 +21,7 @@ const About: React.FC = () => {
         className="absolute -right-[10%] top-[20%] w-[40vw] h-[40vw] max-w-[500px] max-h-[500px] opacity-5 pointer-events-none"
       >
         <img
-          src="/images/Graphic Elements-0١.jpg"
+          src="/images/Graphic Elements-01.jpg"
           alt=""
           className="w-full h-full object-contain"
         />

@@ -127,7 +127,7 @@ const Services: React.FC = () => {
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-full pointer-events-none">
         <div className="absolute top-[10%] right-0 w-[30vw] h-[30vw] max-w-[400px] max-h-[400px] opacity-[0.02]">
           <img
-            src="/images/Graphic Elements-0١.jpg"
+            src="/images/Graphic Elements-01.jpg"
             alt=""
             className="w-full h-full object-contain"
           />
